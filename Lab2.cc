@@ -6,7 +6,8 @@ using namespace std;
 //dopuszczalnej długości linii, znakach z kodu ANSI, wcięciach i dbalości o wsykoiehj jakosci kometarze
 
 int main() {
-	int PierwszaZmienna=5; int Drugazmienna=7;
+	int PierwszaZmienna=5; 
+	int Drugazmienna=7;
 	int WynikDziałania=PierwszaZmienna+Drugazmienna;
 
 	cout <<"Wynik Dodawania Dwóch Liczb To:"<<WynikDziałania<<endl; // Wypisuje wynik dzialania
